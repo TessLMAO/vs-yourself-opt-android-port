@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yourselfforward.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="161" height="552" frameX="-42" frameY="-57" frameWidth="220" frameHeight="763"/>
+	<SubTexture name="idle0000" x="749" y="10" width="414" height="211" frameX="-4" frameY="-56" frameWidth="426" frameHeight="267"/>
+	<SubTexture name="left0000" x="2650" y="10" width="511" height="206" frameX="0" frameY="-40" frameWidth="543" frameHeight="249"/>
+	<SubTexture name="right0000" x="1526" y="773" width="333" height="500" frameX="-46" frameY="-7" frameWidth="379" frameHeight="515"/>
+	<SubTexture name="up0000" x="3314" y="773" width="431" height="863" frameX="-5" frameY="0" frameWidth="460" frameHeight="863"/>
+</TextureAtlas>

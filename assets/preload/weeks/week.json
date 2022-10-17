@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"eye-to-eye",
+			"invisible",
+			[
+				115,
+				155,
+			  140
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Ojo A Ojo",
+	"weekName": "Yourself Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
